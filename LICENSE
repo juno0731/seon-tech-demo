@@ -10,7 +10,7 @@ assets/img/photo/ 폴더의 사진은 제공받은 자료로, 각 권리자에�
 다음 구성요소는 각자의 라이선스를 따릅니다.
 - Bootstrap 5.3.8, Bootstrap Icons 1.13.2: MIT License (파일 머리말 참고)
 - Pretendard 글꼴: SIL Open Font License 1.1 (assets/fonts/Pretendard-OFL.txt)
-- Noto Serif KR 글꼴: SIL Open Font License 1.1 (Google Fonts 제공)
+- Noto Serif KR 글꼴: SIL Open Font License 1.1 (assets/fonts/noto-serif-kr/OFL.txt)
 
 이용 문의: ELTREE
 
